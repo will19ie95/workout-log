@@ -1,0 +1,7 @@
+.navbar-brand {
+  background: url('../../../assets/images/dumbbell-variant-outline.svg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: block;
+  width: 50px;
+}
